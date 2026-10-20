@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Peter, a software engineer based in San Diego, CA.
+I'm Peter, a software engineer based in San Diego, CA. Check out my [📂 Portfolio](https://peternguyen4.github.io/portfolio/)!
 
 I learn best while building, and that has especially been the case with Erwix, a multi-agent trading system.
 
