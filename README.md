@@ -1,6 +1,6 @@
-## 👋 Hi there, I'm Peter!
+## Hi there, I'm Peter!
 
-📍 Based in San Diego, CA
+📍 San Diego, CA
 
 🧑‍💻 Full-Stack Developer
 
@@ -8,7 +8,7 @@
 
 📂 Check out my [Portfolio](https://peternguyen4.github.io/)!
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <table>
   <tr>
